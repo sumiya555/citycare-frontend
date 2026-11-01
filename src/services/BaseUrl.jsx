@@ -1,0 +1,1 @@
+export const baseUrl = "https://citycare-final-exam.onrender.com";
